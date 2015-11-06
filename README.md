@@ -1,4 +1,7 @@
 cpp-lru-cache
+
+[![Build Status](https://travis-ci.org/davidalbertonogueira/cpp-lru-cache.svg?branch=userdefinedkey)](https://travis-ci.org/davidalbertonogueira/cpp-lru-cache)
+
 =============
 
 Simple and reliable LRU (Least Recently Used) cache for c++ based on hashmap and linkedlist. The library is header only, simple test and example are included.
